@@ -3,5 +3,9 @@ body{
 }
 
 a{
-    color:#7A715E
+    color:#5E727A
+}
+
+.navbar-expand-lg{
+    background-color:#43C1FA
 }
